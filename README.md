@@ -1,4 +1,4 @@
-# Simple Interest Calculator — Awesome Edition
+# Simple Interest Calculator — Namoj Edition
 
 **Simple Interest Calculator** is a small, clean, and dynamic web app that calculates simple interest and total amount payable. Built with plain HTML, CSS and JavaScript — enhanced with subtle animations and a modern UI. Perfect for learning DOM manipulation, form validation, and polishing front-end fundamentals.
 
